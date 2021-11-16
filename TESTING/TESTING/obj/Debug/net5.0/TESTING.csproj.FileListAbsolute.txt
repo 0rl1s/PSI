@@ -1,0 +1,16 @@
+C:\Users\lukas\source\repos\TESTING\TESTING\obj\Debug\net5.0\TESTING.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\TESTING\TESTING\obj\Debug\net5.0\TESTING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\TESTING\TESTING\obj\Debug\net5.0\TESTING.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\TESTING\TESTING\obj\Debug\net5.0\TESTING.AssemblyInfo.cs
+C:\Users\lukas\source\repos\TESTING\TESTING\obj\Debug\net5.0\TESTING.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\TESTING\TESTING\bin\Debug\net5.0\TESTING.exe
+C:\Users\lukas\source\repos\TESTING\TESTING\bin\Debug\net5.0\TESTING.deps.json
+C:\Users\lukas\source\repos\TESTING\TESTING\bin\Debug\net5.0\TESTING.runtimeconfig.json
+C:\Users\lukas\source\repos\TESTING\TESTING\bin\Debug\net5.0\TESTING.runtimeconfig.dev.json
+C:\Users\lukas\source\repos\TESTING\TESTING\bin\Debug\net5.0\TESTING.dll
+C:\Users\lukas\source\repos\TESTING\TESTING\bin\Debug\net5.0\ref\TESTING.dll
+C:\Users\lukas\source\repos\TESTING\TESTING\bin\Debug\net5.0\TESTING.pdb
+C:\Users\lukas\source\repos\TESTING\TESTING\obj\Debug\net5.0\TESTING.dll
+C:\Users\lukas\source\repos\TESTING\TESTING\obj\Debug\net5.0\ref\TESTING.dll
+C:\Users\lukas\source\repos\TESTING\TESTING\obj\Debug\net5.0\TESTING.pdb
+C:\Users\lukas\source\repos\TESTING\TESTING\obj\Debug\net5.0\TESTING.genruntimeconfig.cache
