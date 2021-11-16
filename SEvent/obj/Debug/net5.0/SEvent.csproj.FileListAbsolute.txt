@@ -1,0 +1,16 @@
+C:\Users\lukas\source\repos\SEvent\bin\Debug\net5.0\SEvent.exe
+C:\Users\lukas\source\repos\SEvent\bin\Debug\net5.0\SEvent.deps.json
+C:\Users\lukas\source\repos\SEvent\bin\Debug\net5.0\SEvent.runtimeconfig.json
+C:\Users\lukas\source\repos\SEvent\bin\Debug\net5.0\SEvent.runtimeconfig.dev.json
+C:\Users\lukas\source\repos\SEvent\bin\Debug\net5.0\SEvent.dll
+C:\Users\lukas\source\repos\SEvent\bin\Debug\net5.0\ref\SEvent.dll
+C:\Users\lukas\source\repos\SEvent\bin\Debug\net5.0\SEvent.pdb
+C:\Users\lukas\source\repos\SEvent\obj\Debug\net5.0\SEvent.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\SEvent\obj\Debug\net5.0\SEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\SEvent\obj\Debug\net5.0\SEvent.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\SEvent\obj\Debug\net5.0\SEvent.AssemblyInfo.cs
+C:\Users\lukas\source\repos\SEvent\obj\Debug\net5.0\SEvent.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\SEvent\obj\Debug\net5.0\SEvent.dll
+C:\Users\lukas\source\repos\SEvent\obj\Debug\net5.0\ref\SEvent.dll
+C:\Users\lukas\source\repos\SEvent\obj\Debug\net5.0\SEvent.pdb
+C:\Users\lukas\source\repos\SEvent\obj\Debug\net5.0\SEvent.genruntimeconfig.cache
