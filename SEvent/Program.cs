@@ -3,11 +3,13 @@
 namespace SEvent
 {
     public delegate void Print(int value);
+
     public class MaximumReachedEventArgs : EventArgs
     {
         public int Maximum { get; set; }
         public DateTime TimeReached { get; set; }
     }
+
     class Counter
     {
         private int maximum;
@@ -28,6 +30,10 @@ namespace SEvent
                 args.TimeReached = DateTime.Now;
                 OnMaximumReached(args);
             }
+            else if (total == maximum / 2)
+            {
+                HalfReached();
+            }
         }
 
         protected virtual void OnMaximumReached(MaximumReachedEventArgs e)
@@ -38,9 +44,11 @@ namespace SEvent
                 handler(this, e);
             }
         }
-        //Generics in events?
+        //Generics in events
         public event EventHandler<MaximumReachedEventArgs> MaximumReached;
+        public event Action HalfReached;
     }
+
     class Program
     {
         static void Main()
@@ -57,11 +65,16 @@ namespace SEvent
 
             Counter c = new(i);
 
-            //Anonymous Method as Event Handler
+            //Anonymous Method as Event Handler Method
             c.MaximumReached += delegate (object sender, MaximumReachedEventArgs e)
             {
                 Console.WriteLine("Got you, the real maximum of {0} was reached at {1}.", e.Maximum, e.TimeReached);
                 Environment.Exit(0);
+            };
+
+            c.HalfReached += delegate
+            {
+                Console.WriteLine("You reached half of the maximum quantity!");
             };
 
             Console.WriteLine("press '+' key to increase total");
